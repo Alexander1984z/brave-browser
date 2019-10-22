@@ -251,7 +251,7 @@
   },
   "homepage": "https://github.com/brave/brave-browser#readme",
   "dependencies": {
-    "commander": "^2.9.0",
+    "commander": "^2.20.3",
     "fs-extra": "^1.0.0"
   },
   "devDependencies": {
